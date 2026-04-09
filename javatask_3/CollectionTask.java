@@ -4,7 +4,7 @@ import java.util.*;
 
 class Student {
     int id;
-    String name;
+    String name;// name
     int marks;
 
     public Student(int id, String name, int marks) {
